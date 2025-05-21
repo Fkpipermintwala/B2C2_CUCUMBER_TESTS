@@ -55,7 +55,7 @@ Validate that clicking the B2C2 logo redirects users back to the homepage.
 - Java JDK (17 or later)
 - Maven installed
 - Chrome browser installed
-- IntelliJ IDEA (recommended)
+- IntelliJ IDEA
 
 ### Steps to Run:
 1. Clone the repo or download the code
